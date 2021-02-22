@@ -1,0 +1,82 @@
+@font-face {
+  font-family: Star Jedi;
+  src: url('./star-jedi_[allfont.net].ttf') format("truetype");
+  }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(121,128,144,1) 100%);
+}
+
+.App {
+  text-align: center;
+}
+
+form.search-form-container {
+  
+  margin: 50px auto 0 auto;
+  width: 80%;
+}
+
+form > input {
+  border-radius: 10px;
+  width: 80%;
+  max-width: 800px;
+  font-size: 1.2em;
+  padding: 5px 3px;
+}
+
+.query-results-list {
+  text-align: left;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.query-results-list > ul {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(202, 207, 212);
+}
+
+li.result-item {
+  list-style: none;
+  padding: 15px 10px;
+  font-size: x-large;
+}
+
+li.result-item:hover {
+  background-color: black;
+  color: gainsboro;
+  cursor: pointer;
+}
+
+p.no-results-prompt {
+  text-align: center;
+}
+
+div.character-display-container {
+  font-size: x-large;
+  width: 60%;
+  margin: 10px auto;
+  text-align: left;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+span.character-info-title {
+  font-size: x-large;
+  font-weight: bold;
+  
+}
+
+.titulo{
+  font-family: Star Jedi, arial;
+}
+
