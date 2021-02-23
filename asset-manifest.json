@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactAutocomplete/static/css/main.d4d99c61.chunk.css",
+    "main.js": "/reactAutocomplete/static/js/main.f483b1c8.chunk.js",
+    "main.js.map": "/reactAutocomplete/static/js/main.f483b1c8.chunk.js.map",
+    "runtime-main.js": "/reactAutocomplete/static/js/runtime-main.01ad8bc3.js",
+    "runtime-main.js.map": "/reactAutocomplete/static/js/runtime-main.01ad8bc3.js.map",
+    "static/js/2.9b8382c4.chunk.js": "/reactAutocomplete/static/js/2.9b8382c4.chunk.js",
+    "static/js/2.9b8382c4.chunk.js.map": "/reactAutocomplete/static/js/2.9b8382c4.chunk.js.map",
+    "index.html": "/reactAutocomplete/index.html",
+    "static/css/main.d4d99c61.chunk.css.map": "/reactAutocomplete/static/css/main.d4d99c61.chunk.css.map",
+    "static/js/2.9b8382c4.chunk.js.LICENSE.txt": "/reactAutocomplete/static/js/2.9b8382c4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactAutocomplete/static/media/star-jedi_[allfont.net].73fb6d94.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01ad8bc3.js",
+    "static/js/2.9b8382c4.chunk.js",
+    "static/css/main.d4d99c61.chunk.css",
+    "static/js/main.f483b1c8.chunk.js"
+  ]
+}
