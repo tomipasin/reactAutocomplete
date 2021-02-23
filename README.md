@@ -27,7 +27,7 @@ Depois disso é só ininciar o servidor. Por padrão deixei na porta 3001 mas is
 npm start
 ```
 
-O código do nosso <i>/src/components/Search.js</i> está totalmente comentado, para melhor compreensão:
+O código do nosso <strong><i>/src/components/Search.js</i></strong> está totalmente comentado, para melhor compreensão:
 
 <img src="https://tomipasin.com/assets/img/StarWarsCarbon.png" />
 
