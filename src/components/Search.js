@@ -129,8 +129,12 @@ function Search() {
                 {selectedCharacter ? (
                     <div className='character-display-container'>
                         <p><span className='character-info-title'>Nome:</span> {selectedCharacter.name}</p>
+                        <p><span className='character-info-title'>Ano de nascimento:</span> {selectedCharacter.birth_year}</p>
                         <p><span className='character-info-title'>Altura:</span> {selectedCharacter.height}</p>
-                        <p><span className='character-info-title'>Massa:</span> {selectedCharacter.mass}</p>
+                        <p><span className='character-info-title'>Gênero:</span> {selectedCharacter.gender}</p>
+                        <p><span className='character-info-title'>Cor da pele:</span> {selectedCharacter.skin_color}</p>
+                        <p><span className='character-info-title'>Gênero:</span> {selectedCharacter.gender}</p>
+                        
                     </div>
                 ) : (
                         <p className='no-results-prompt'>Sem resultados. Tenta digitar algo na caixa de pesquisa.</p>
